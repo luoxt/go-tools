@@ -3,7 +3,7 @@
 // @author luoxt
 // @date 20171215
 //
-package main
+package src
 
 import (
 	"bufio"
