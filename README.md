@@ -6,7 +6,7 @@ golang工具包
   <img src="bin/demo/p2.jpeg">
 
 ### 输出结果：
-  <img src="bin/demo/p2.jpeg">
+  <img src="bin/demo/p1.jpeg">
 
 
 
